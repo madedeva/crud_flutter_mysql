@@ -1,6 +1,6 @@
 # note_app_mysql
 
-A new Flutter project.
+By: i made deva kerti wijaya
 
 ## Getting Started
 
