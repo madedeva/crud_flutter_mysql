@@ -2,6 +2,10 @@
 
 By: i made deva kerti wijaya
 
+Following Step:
+- duplikat project, buka terminal/git bash, ketikan 'git clone linkgithub'
+- ubah ip server api dengan ip milik sendiri
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
